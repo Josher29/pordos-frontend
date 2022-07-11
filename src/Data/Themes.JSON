@@ -1,0 +1,27 @@
+[
+    {
+        "name":"Futbol Costa Rica",
+        "description":"Opinemos sobre el FPD!!",
+        "photo":"https://i.postimg.cc/dtWksR5V/Logo-Pordos.png"
+    },
+    {
+        "name":"UCR",
+        "description":"Tema oficial de la UCR",
+        "photo":"https://i.postimg.cc/dtWksR5V/Logo-Pordos.png"
+    },
+    {
+        "name":"Diseño web",
+        "description":"<p>Comunidad en la que nos desahogamos los desarrolladores</p>",
+        "photo":"https://i.postimg.cc/dtWksR5V/Logo-Pordos.png"
+    },
+    {
+        "name":"ECCI",
+        "description":"Opiniones de cursos, profes y materia de la ECCI",
+        "photo":"https://i.postimg.cc/dtWksR5V/Logo-Pordos.png"
+    },
+    {
+        "name":"Programación",
+        "description":"Lo que callamos los programadores",
+        "photo":"https://i.postimg.cc/dtWksR5V/Logo-Pordos.png"
+    }
+]

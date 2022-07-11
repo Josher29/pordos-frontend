@@ -1,0 +1,37 @@
+[
+    {
+        "id":0,
+        "user_name":"Josher29",
+        "theme_name":"Futbol Costa Rica",
+        "body": "Cartago Campeooon!!!",
+        "votes" : 300
+    },
+    {
+        "id":1,
+        "user_name":"Josher29",
+        "theme_name": "ECCI",
+        "body": "El peor error de mi vida fue matricular Álgebra junto con Cálculo!!",
+        "votes" : 500
+    },
+    {
+        "id":2,
+        "user_name":"Aaron69",
+        "theme_name":"UCR",
+        "body": "La peor soda es Farmacia!",
+        "votes" : 50
+    },
+    {
+        "id":3,
+        "user_name":"DRojas09",
+        "theme_name": "Programación",
+        "body": "Pasé toda la noche buscando el error. Me faltaba un punto y coma",
+        "votes" : 1500
+    },
+    {
+        "id":4,
+        "user_name":"DRojas09",
+        "theme_name":"UCR",
+        "body": "Los mejores baños son los de Derecho. Confirmado!",
+        "votes" : 20
+    }
+]
